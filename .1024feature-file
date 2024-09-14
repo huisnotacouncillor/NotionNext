@@ -1,0 +1,4 @@
+fileChangeLogs:
+  - '.1024'
+  - .gitignore
+  - node_modules

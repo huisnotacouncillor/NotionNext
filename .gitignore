@@ -40,12 +40,15 @@ yarn-error.log*
 .idea
 .vscode
 
+# Clacky ignores
+# Include Clacky-specific ignore rules here
+node_modules/
+.1024.nix
 
 # sitemap
 /public/robots.txt
 /public/sitemap.xml
 /public/rss/*
-
 
 # yarn
 package-lock.json
