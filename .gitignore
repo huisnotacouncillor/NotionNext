@@ -53,3 +53,16 @@ package-lock.json
 
 # Clacky specific ignore rules
 # Add Clacky rules here as specified in the playbook.
+# logs/
+# temp/
+# .env.local
+# .env.development
+# .env.production
+# build/
+# dist/
+# coverage/
+# coverage.lcov
+# *.log
+# .idea/
+# *.swp
+# .DS_Store
