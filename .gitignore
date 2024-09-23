@@ -53,3 +53,8 @@ node_modules/
 # yarn
 package-lock.json
 # yarn.lock
+
+# Clacky specific rules
+*.clacky
+.clacky-env
+.cache/
