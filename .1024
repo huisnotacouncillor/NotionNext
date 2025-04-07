@@ -1,2 +1,4 @@
-compile_command: pnpm run build
-run_command: yarn dev
+# Command to run when "Run" button clicked
+run_commands: ['yarn dev']
+# Command to install or update dependencies, will execute each time a new thread created to ensure dependencies up-to-date
+dependency_command: yarn install

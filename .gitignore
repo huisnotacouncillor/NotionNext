@@ -44,6 +44,9 @@ yarn-error.log*
 # Include Clacky-specific ignore rules here
 node_modules/
 .1024.nix
+.1024*
+!.1024
+.breakpoints
 
 # sitemap
 /public/robots.txt
