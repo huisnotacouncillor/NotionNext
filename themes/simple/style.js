@@ -11,6 +11,12 @@ const Style = () => {
   .dark body{
       background-color: black;
   }
+  
+  // 设置普通模式下的背景为紫色
+  body {
+      background-color: purple;
+  }
+  
   // 文本不可选取
     .forbid-copy {
         user-select: none;

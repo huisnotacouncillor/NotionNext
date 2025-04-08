@@ -2,3 +2,5 @@ fileChangeLogs:
   - '.1024'
   - .gitignore
   - node_modules
+  - themes/simple/style.js
+  - themes/simple/index.js
