@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+body {
+  background-color: #FF0000;
+}
+
 .wrapper {
   min-height: 100vh;
   display: flex;
