@@ -2,3 +2,4 @@ fileChangeLogs:
   - '.1024'
   - .gitignore
   - node_modules
+  - 123.txt
